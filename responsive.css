@@ -1,0 +1,41 @@
+@media (max-width: 1299px){
+
+}
+
+@media (max-width: 991px){
+
+}
+
+@media (max-width: 767px){
+    /* .footer .footer_links {
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    .footer .footer_links ul{
+        padding: 0;
+    }
+
+    .header nav ul.nav_list{
+        display: none;
+    }
+
+    .list_hide{
+        display: block;
+    } */
+}
+
+@media (max-width: 575px){
+    .slide-item {
+        height: 300px;
+    }
+    form.row.g-3 {
+        width: 100%;
+    }
+
+  
+}
+
+@media (max-width: 480px){
+
+}
